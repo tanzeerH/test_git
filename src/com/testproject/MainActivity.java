@@ -24,6 +24,10 @@ public class MainActivity extends Activity {
 	{
 		System.out.println("hello java");
 	}
+	private void sampleFunction3()
+	{
+		System.out.println("hello java");
+	}
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
